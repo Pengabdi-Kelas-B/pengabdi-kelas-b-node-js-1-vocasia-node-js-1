@@ -1,0 +1,16 @@
+{
+  "name": "tugas_week_7_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "make-folder" : "node index.js make-folder",
+    "make-file" : "",
+    "ext-sorter" : "",
+    "read-folder" : ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
