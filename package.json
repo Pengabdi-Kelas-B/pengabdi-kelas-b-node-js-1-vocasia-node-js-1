@@ -6,11 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "make-folder" : "node index.js make-folder",
-    "make-file" : "",
-    "ext-sorter" : "",
-    "read-folder" : ""
+    "make-file" : "node index.js make-file",
+    "ext-sorter" : "node index.js ext-sorter",
+    "read-folder" : "node index.js read-folder",
+     "read-file": "node index.js read-file"
   },
   "keywords": [],
-  "author": "",
+  "author": "siylan",
   "license": "ISC"
 }
